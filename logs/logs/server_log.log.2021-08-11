@@ -1,0 +1,274 @@
+2021-08-10 21:03:45,115 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:10:26,682 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:10:30,059 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51221)
+2021-08-10 21:10:30,060 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619030, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:30,060 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619030, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:30,060 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51221)
+2021-08-10 21:10:30,061 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51222)
+2021-08-10 21:10:30,061 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619030, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:30,061 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619030, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:30,061 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51222)
+2021-08-10 21:10:38,362 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51228)
+2021-08-10 21:10:38,362 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619038, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:38,362 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619038, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:38,363 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51228)
+2021-08-10 21:10:38,363 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51229)
+2021-08-10 21:10:38,363 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619038, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:38,363 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619038, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:38,363 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51229)
+2021-08-10 21:10:58,434 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51257)
+2021-08-10 21:10:58,434 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619058, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:58,434 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619058, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:58,434 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51257)
+2021-08-10 21:10:58,435 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51258)
+2021-08-10 21:10:58,435 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619058, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:58,435 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619058, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:10:58,435 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51258)
+2021-08-10 21:11:22,945 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:11:27,447 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 52473)
+2021-08-10 21:11:27,447 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619087, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:27,447 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619087, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:27,447 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 52473)
+2021-08-10 21:11:27,447 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 52474)
+2021-08-10 21:11:27,448 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619087, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:27,448 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619087, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:27,448 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 52474)
+2021-08-10 21:11:56,771 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 52516)
+2021-08-10 21:11:56,771 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619116, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:56,772 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619116, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:56,772 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 52516)
+2021-08-10 21:11:56,772 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 52517)
+2021-08-10 21:11:56,772 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619116, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:56,772 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619116, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:11:56,772 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 52517)
+2021-08-10 21:12:10,009 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56023)
+2021-08-10 21:12:10,009 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619130, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:12:10,009 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619130, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:12:10,010 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56023)
+2021-08-10 21:12:10,010 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56024)
+2021-08-10 21:12:10,010 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619130, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:12:10,010 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619130, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:12:10,010 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56024)
+2021-08-10 21:13:07,052 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56101)
+2021-08-10 21:13:07,052 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628619187, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:13:07,052 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628619187, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:13:07,052 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56101)
+2021-08-10 21:13:07,053 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56102)
+2021-08-10 21:13:07,053 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628619187, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:13:07,053 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628619187, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:13:07,053 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56102)
+2021-08-10 21:27:13,773 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:27:18,226 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:27:44,517 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51272)
+2021-08-10 21:27:44,517 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628620064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:27:44,534 DEBUG decos.py Была вызвана функция process_client_message c параметрами (), {'message': {'action': 'presence', 'time': 1628620064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:27:44,534 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628620064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:27:44,534 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51272)
+2021-08-10 21:27:44,534 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51273)
+2021-08-10 21:27:44,534 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628620064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:27:44,536 DEBUG decos.py Была вызвана функция process_client_message c параметрами (), {'message': {'action': 'authenticate', 'time': 1628620064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:27:44,536 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628620064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:27:44,536 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51273)
+2021-08-10 21:30:00,958 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:31:32,858 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:31:57,291 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51585)
+2021-08-10 21:31:57,291 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628620317, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:31:57,308 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628620317, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:31:57,309 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628620317, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:31:57,309 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51585)
+2021-08-10 21:31:57,310 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 51586)
+2021-08-10 21:31:57,310 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628620317, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:31:57,311 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628620317, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:31:57,312 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628620317, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:31:57,312 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 51586)
+2021-08-10 21:37:19,385 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:37:50,000 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:38:20,203 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:38:37,646 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 53390)
+2021-08-10 21:38:37,646 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628620717, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:38:37,662 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628620717, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:38:37,664 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628620717, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:38:37,664 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 53390)
+2021-08-10 21:38:37,664 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 53391)
+2021-08-10 21:38:37,664 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628620717, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:38:37,666 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628620717, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:38:37,668 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628620717, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:38:37,668 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 53391)
+2021-08-10 21:40:49,659 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:40:57,879 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 53549)
+2021-08-10 21:40:57,880 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628620857, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:40:57,898 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628620857, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:40:57,899 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628620857, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:40:57,899 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 53549)
+2021-08-10 21:40:57,903 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 53550)
+2021-08-10 21:40:57,904 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628620857, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:40:57,906 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628620857, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:40:57,907 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628620857, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:40:57,907 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 53550)
+2021-08-10 21:42:30,797 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 58752)
+2021-08-10 21:42:30,799 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628620950, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:42:30,800 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628620950, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:42:30,802 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628620950, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:42:30,802 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 58752)
+2021-08-10 21:42:30,805 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 58753)
+2021-08-10 21:42:30,807 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628620950, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:42:30,808 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628620950, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:42:30,810 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628620950, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:42:30,810 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 58753)
+2021-08-10 21:43:43,783 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:43:46,023 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 58825)
+2021-08-10 21:43:46,024 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628621026, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:43:46,041 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628621026, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:43:46,043 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628621026, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:43:46,043 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 58825)
+2021-08-10 21:43:46,046 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 58826)
+2021-08-10 21:43:46,048 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628621026, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:43:46,049 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628621026, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:43:46,051 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628621026, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:43:46,051 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 58826)
+2021-08-10 21:45:20,433 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:45:40,503 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 58964)
+2021-08-10 21:45:40,504 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628621140, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:45:40,520 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628621140, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:45:40,522 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628621140, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:45:40,522 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 58964)
+2021-08-10 21:45:40,525 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 58965)
+2021-08-10 21:45:40,527 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628621140, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:45:40,529 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628621140, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:45:40,530 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628621140, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:45:40,531 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 58965)
+2021-08-10 21:48:12,923 DEBUG decos.py Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x0000015261721370>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции <module>
+2021-08-10 21:48:12,923 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:48:15,722 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 50948)
+2021-08-10 21:48:15,724 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628621295, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:48:15,726 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628621295, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:48:15,726 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628621295, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:48:15,726 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 50948)
+2021-08-10 21:48:15,730 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 50949)
+2021-08-10 21:48:15,731 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628621295, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:48:15,733 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628621295, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:48:15,733 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628621295, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:48:15,733 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 50949)
+2021-08-10 21:59:12,184 DEBUG decos.py Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x000001C366761370>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции <module>
+2021-08-10 21:59:12,185 DEBUG decos.py log-func: Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x000001C366761370>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции log_saver
+2021-08-10 21:59:12,185 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 21:59:14,721 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 60413)
+2021-08-10 21:59:14,721 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628621954, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:59:14,723 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628621954, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:59:14,723 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628621954, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:59:14,723 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 60413)
+2021-08-10 21:59:14,728 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 60414)
+2021-08-10 21:59:14,728 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628621954, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:59:14,730 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628621954, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 21:59:14,730 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628621954, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 21:59:14,730 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 60414)
+2021-08-10 22:01:01,051 DEBUG decos.py Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x0000023A95FF1340>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции <module>
+2021-08-10 22:01:01,051 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 22:01:04,095 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 60555)
+2021-08-10 22:01:04,095 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628622064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:01:04,097 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628622064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:01:04,097 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628622064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:01:04,097 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 60555)
+2021-08-10 22:01:04,101 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 60556)
+2021-08-10 22:01:04,102 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628622064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:01:04,103 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628622064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:01:04,103 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628622064, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:01:04,103 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 60556)
+2021-08-10 22:13:14,406 DEBUG decos.py ['__repr__', '__call__', '__get__', '__new__', '__closure__', '__doc__', '__globals__', '__module__', '__code__', '__defaults__', '__kwdefaults__', '__annotations__', '__dict__', '__name__', '__qualname__', '__hash__', '__str__', '__getattribute__', '__setattr__', '__delattr__', '__lt__', '__le__', '__eq__', '__ne__', '__gt__', '__ge__', '__init__', '__reduce_ex__', '__reduce__', '__subclasshook__', '__init_subclass__', '__format__', '__sizeof__', '__dir__', '__class__']Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x0000022059731340>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции <module>
+2021-08-10 22:13:14,406 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 22:13:16,819 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56558)
+2021-08-10 22:13:16,819 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628622796, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:13:16,821 DEBUG decos.py ['__repr__', '__call__', '__get__', '__new__', '__closure__', '__doc__', '__globals__', '__module__', '__code__', '__defaults__', '__kwdefaults__', '__annotations__', '__dict__', '__name__', '__qualname__', '__hash__', '__str__', '__getattribute__', '__setattr__', '__delattr__', '__lt__', '__le__', '__eq__', '__ne__', '__gt__', '__ge__', '__init__', '__reduce_ex__', '__reduce__', '__subclasshook__', '__init_subclass__', '__format__', '__sizeof__', '__dir__', '__class__']Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628622796, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:13:16,821 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628622796, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:13:16,821 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56558)
+2021-08-10 22:13:16,825 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56559)
+2021-08-10 22:13:16,825 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628622796, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:13:16,827 DEBUG decos.py ['__repr__', '__call__', '__get__', '__new__', '__closure__', '__doc__', '__globals__', '__module__', '__code__', '__defaults__', '__kwdefaults__', '__annotations__', '__dict__', '__name__', '__qualname__', '__hash__', '__str__', '__getattribute__', '__setattr__', '__delattr__', '__lt__', '__le__', '__eq__', '__ne__', '__gt__', '__ge__', '__init__', '__reduce_ex__', '__reduce__', '__subclasshook__', '__init_subclass__', '__format__', '__sizeof__', '__dir__', '__class__']Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628622796, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:13:16,827 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628622796, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:13:16,827 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56559)
+2021-08-10 22:14:21,085 DEBUG decos.py Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x00000236FDE01340>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции <module>
+2021-08-10 22:14:21,085 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 22:14:23,309 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56659)
+2021-08-10 22:14:23,309 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628622863, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:14:23,311 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628622863, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:14:23,311 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628622863, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:14:23,311 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56659)
+2021-08-10 22:14:23,316 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 56660)
+2021-08-10 22:14:23,316 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628622863, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:14:23,317 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628622863, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:14:23,317 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628622863, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:14:23,317 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 56660)
+2021-08-10 22:17:50,133 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61606)
+2021-08-10 22:17:50,133 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628623070, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:17:50,135 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628623070, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:17:50,135 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628623070, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:17:50,135 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61606)
+2021-08-10 22:17:50,140 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61607)
+2021-08-10 22:17:50,140 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628623070, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:17:50,142 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628623070, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:17:50,142 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628623070, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:17:50,142 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61607)
+2021-08-10 22:18:42,797 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61670)
+2021-08-10 22:18:42,797 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628623122, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:18:42,799 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628623122, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:18:42,799 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628623122, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:18:42,799 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61670)
+2021-08-10 22:18:42,804 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61673)
+2021-08-10 22:18:42,804 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628623122, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:18:42,805 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628623122, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:18:42,806 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628623122, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:18:42,806 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61673)
+2021-08-10 22:19:18,507 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61714)
+2021-08-10 22:19:18,507 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628623158, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:18,509 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628623158, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:19:18,509 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628623158, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:18,509 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61714)
+2021-08-10 22:19:18,514 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61715)
+2021-08-10 22:19:18,514 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628623158, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:18,516 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628623158, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:19:18,516 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628623158, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:18,516 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61715)
+2021-08-10 22:19:53,470 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61759)
+2021-08-10 22:19:53,470 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628623193, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:53,472 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628623193, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:19:53,472 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628623193, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:53,472 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61759)
+2021-08-10 22:19:53,477 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61760)
+2021-08-10 22:19:53,477 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628623193, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:53,479 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628623193, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:19:53,479 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628623193, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:19:53,479 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61760)
+2021-08-10 22:20:22,514 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61789)
+2021-08-10 22:20:22,514 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628623222, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:20:22,516 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628623222, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:20:22,516 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628623222, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:20:22,516 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61789)
+2021-08-10 22:20:22,521 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 61790)
+2021-08-10 22:20:22,521 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628623222, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:20:22,523 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628623222, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из функции Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:20:22,523 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628623222, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:20:22,523 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 61790)
+2021-08-10 22:22:29,201 DEBUG decos.py Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x000002292B751340>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из объекта Server(sys.argv).Вызов из функции <module>
+2021-08-10 22:22:29,201 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-10 22:22:31,271 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 50825)
+2021-08-10 22:22:31,271 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628623351, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:22:31,272 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628623351, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из объекта Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:22:31,272 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628623351, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:22:31,272 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 50825)
+2021-08-10 22:22:31,277 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 50826)
+2021-08-10 22:22:31,277 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628623351, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:22:31,278 DEBUG decos.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628623351, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из объекта Server(sys.argv).Вызов из функции server_working
+2021-08-10 22:22:31,279 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628623351, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-10 22:22:31,279 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 50826)
+2021-08-11 20:08:07,006 DEBUG server.py Была вызвана функция __init__ c параметрами args=(<__main__.Server object at 0x000001F1934D1340>, ['D:/OneDrive/projects/geekbrains/14 Клиент-серверные приложения на Python/course_project/GB_PY_messenger/server/server.py']), kwargs={}. Вызов из модуля __main__. Вызов из объекта Server(sys.argv).Вызов из функции <module>
+2021-08-11 20:08:07,033 DEBUG server.py Запущен сервер, порт для подключений: 8080, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-08-11 20:08:09,693 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 63601)
+2021-08-11 20:08:09,694 DEBUG server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1628701689, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-11 20:08:09,695 DEBUG server.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'presence', 'time': 1628701689, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из объекта Server(sys.argv).Вызов из функции server_working
+2021-08-11 20:08:09,695 DEBUG server.py Сформирован ответ клиенту: {'action': 'presence', 'time': 1628701689, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-11 20:08:09,695 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 63601)
+2021-08-11 20:08:09,700 DEBUG server.py Установлено соединение с ПК по адресу: ('127.0.0.1', 63602)
+2021-08-11 20:08:09,700 DEBUG server.py Принято сообщение от клиента: {'action': 'authenticate', 'time': 1628701689, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-11 20:08:09,701 DEBUG server.py Была вызвана функция process_client_message c параметрами args=(), kwargs={'message': {'action': 'authenticate', 'time': 1628701689, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}}. Вызов из модуля __main__. Вызов из объекта Server(sys.argv).Вызов из функции server_working
+2021-08-11 20:08:09,701 DEBUG server.py Сформирован ответ клиенту: {'action': 'authenticate', 'time': 1628701689, 'user': {'account_name': 'Guest', 'status': 'Yep, I am here!'}}
+2021-08-11 20:08:09,702 DEBUG server.py Закрываем соединение с ПК по адресу: ('127.0.0.1', 63602)
